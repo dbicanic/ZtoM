@@ -1,0 +1,18 @@
+h2 {
+	color: red;
+	text-align: center;
+}
+
+p {
+	color: pink;
+}
+
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
